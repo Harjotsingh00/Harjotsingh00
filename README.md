@@ -120,24 +120,24 @@ Beyond code, I actively engage with **startup ecosystems**, **open-source commun
 
 <div align="center">
 
-<a href="https://github.com/harjotsingh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harjotsingh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+<a href="https://github.com/Harjotsingh00">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harjotsingh00&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/harjotsingh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjotsingh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/Harjotsingh00">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harjotsingh00&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harjotsingh&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harjotsingh00&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" width="60%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harjotsingh&theme=react-dark&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harjotsingh00&theme=react-dark&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="95%" />
 
 </div>
 
@@ -155,23 +155,23 @@ Beyond code, I actively engage with **startup ecosystems**, **open-source commun
 <!--  └──────────────────────────────────────────────────────┘  -->
 
 <!-- PROJECT 1: Best AI / ML Project -->
-<a href="https://github.com/harjotsingh/YOUR-AI-PROJECT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harjotsingh&repo=YOUR-AI-PROJECT&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
+<a href="https://github.com/Harjotsingh00/AI-Startup-CTO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harjotsingh00&repo=Ai-Startup-CTO&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
 </a>
 
 <!-- PROJECT 2: Best Web Development Project -->
-<a href="https://github.com/harjotsingh/YOUR-WEB-PROJECT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harjotsingh&repo=YOUR-WEB-PROJECT&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
+<a href="https://github.com/Harjotsingh00/astrodetect-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harjotsingh00&repo=astrodetect-ai&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
 </a>
 
 <!-- PROJECT 3: Best Automation Project -->
-<a href="https://github.com/harjotsingh/YOUR-AUTOMATION-PROJECT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harjotsingh&repo=YOUR-AUTOMATION-PROJECT&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
+<a href="https://github.com/Harjotsingh00/ScamShieldIndia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harjotsingh00&repo=ScamShieldIndia&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
 </a>
 
 <!-- PROJECT 4: Open Source Contribution -->
-<a href="https://github.com/harjotsingh/YOUR-OPEN-SOURCE-FORK-OR-CONTRIBUTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harjotsingh&repo=YOUR-OSS-PROJECT&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
+<a href="https://github.com/Harjotsingh00/eventpulse-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harjotsingh00&repo=eventpulse-ai&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&description_lines_count=2" />
 </a>
 
 </div>
@@ -198,7 +198,7 @@ Beyond code, I actively engage with **startup ecosystems**, **open-source commun
   └──────────────────────────────────────────────────────────────┘
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harjotsingh&theme=onestar&no-frame=true&row=1&column=6&no-bg=true&margin-w=6" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harjotsingh00&theme=onestar&no-frame=true&row=1&column=6&no-bg=true&margin-w=6" width="95%" />
 </div>
 -->
 
@@ -210,18 +210,17 @@ Beyond code, I actively engage with **startup ecosystems**, **open-source commun
 
 <!-- Replace # with your actual URLs -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/YOUR-HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR-HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://YOUR-PORTFOLIO.dev)
-[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/harjotsingh97801)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/HarjotSing54060)
+[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/harjotsingh_1712)
+[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:harjotsinghpb0008@gmail.com)
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/YOUR-HANDLE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/YOUR-HANDLE)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0f0c29?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/YOUR-HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-0f0c29?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR-DISCORD-ID)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/harjotsinghpb0008)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/harjotsinghpb001)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0f0c29?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/harjotsinghpb0008)
+[![Discord](https://img.shields.io/badge/Discord-0f0c29?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/harjotsinghpb0008_16972)
 
 </div>
 
