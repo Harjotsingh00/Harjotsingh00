@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
+<rect width="1000" height="230" rx="14" fill="#0A1128"/>
+<g stroke="#5EEAD4" stroke-opacity=".55" stroke-width="2" stroke-dasharray="8 8">
+<line x1="195" y1="85" x2="455" y2="85"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" repeatCount="indefinite"/></line>
+<line x1="545" y1="85" x2="805" y2="85"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" repeatCount="indefinite"/></line>
+</g>
+<circle r="6" fill="#F5B841"><animateMotion dur="2.6s" repeatCount="indefinite" path="M195,85 L455,85"/></circle>
+<circle r="6" fill="#F5B841"><animateMotion dur="2.6s" begin="1.3s" repeatCount="indefinite" path="M545,85 L805,85"/></circle>
+
+<circle cx="150" cy="85" r="44" fill="#0A1128" stroke="#5EEAD4" stroke-width="3"/>
+<rect x="132" y="85" width="9" height="16" rx="2" fill="#5EEAD4"/><rect x="146" y="72" width="9" height="29" rx="2" fill="#5EEAD4"/><rect x="160" y="60" width="9" height="41" rx="2" fill="#5EEAD4"/>
+
+<circle cx="500" cy="85" r="44" fill="#0A1128" stroke="#5EEAD4" stroke-width="3"/>
+<polyline points="482,102 500,68 518,102 482,102" stroke="#5EEAD4" stroke-width="2.5" fill="none"/>
+<g fill="#5EEAD4"><circle cx="482" cy="102" r="5"/><circle cx="500" cy="68" r="5"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/></circle><circle cx="518" cy="102" r="5"/></g>
+
+<circle cx="850" cy="85" r="44" fill="#F5B841"/>
+<polyline points="830,86 845,101 872,68" stroke="#0A1128" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+<g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle">
+<text x="150" y="168" font-size="22" font-weight="700" fill="#F4F7FB">Data</text>
+<text x="150" y="196" font-size="15" fill="#A9BCD0">Python · Pandas · SQL</text>
+<text x="500" y="168" font-size="22" font-weight="700" fill="#F4F7FB">Insight</text>
+<text x="500" y="196" font-size="15" fill="#A9BCD0">LLMs · Gemini · RAG</text>
+<text x="850" y="168" font-size="22" font-weight="700" fill="#F5B841">Action</text>
+<text x="850" y="196" font-size="15" fill="#A9BCD0">Human-in-the-loop decisions</text>
+</g>
+</svg>
